@@ -10,3 +10,7 @@ Being a web developer, you could collaborate with an agency or company or even a
 - Designing navigation menus and user interfaces
 - Testing web applications
 - Reviewing and writing codes for websites, basically JavaScript, HTML, or XML
+
+
+
+An image of a person infront of a computer
