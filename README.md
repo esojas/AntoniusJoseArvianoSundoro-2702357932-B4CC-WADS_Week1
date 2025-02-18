@@ -12,5 +12,8 @@ Being a web developer, you could collaborate with an agency or company or even a
 - Reviewing and writing codes for websites, basically JavaScript, HTML, or XML
 
 
+# Image
+
+![alt text](image.png)
 
 An image of a person infront of a computer
